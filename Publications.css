@@ -181,9 +181,9 @@
   }
 
   .u-section-3 .u-group-1 {
-    min-height: 183px;
-    margin-top: 0;
-    margin-bottom: 10px;
+    min-height: 182px;
+    margin-top: -1px;
+    margin-bottom: 11px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -216,8 +216,9 @@
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 21px;
-    margin-left: 161px;
+    margin-top: 63px;
+    margin-right: 0;
+    margin-left: auto;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 247px;
