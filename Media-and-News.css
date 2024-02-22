@@ -293,23 +293,13 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 499px;
-  }
-
   .u-section-4 .u-list-1 {
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-4 .u-repeater-1 {
-    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-4 .u-repeater-1 {
-    grid-template-columns: 100%;
+    grid-auto-columns: 100%;
   }
 }
 
