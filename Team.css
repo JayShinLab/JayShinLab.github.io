@@ -1017,8 +1017,8 @@
 
 .u-section-4 .u-repeater-1 {
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
-  min-height: 1084px;
-  grid-gap: 10px 10px;
+  min-height: 1298px;
+  grid-gap: 10px;
 }
 
 .u-section-4 .u-list-item-1 {
@@ -1204,7 +1204,7 @@
 .u-section-4 .u-image-5 {
   width: 202px;
   height: 202px;
-  background-image: url("images/Isabel.jpg");
+  background-image: url("images/Isabelle1.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -1245,7 +1245,8 @@
   width: 202px;
   height: 202px;
   background-image: url("images/EC_2.jpeg");
-  background-position: 50% 31.88%;
+  background-position: 50% 24.8%;
+  background-size: cover;
   margin: 0 auto;
 }
 
@@ -1256,11 +1257,6 @@
 
 .u-section-4 .u-icon-8 {
   margin-top: 2px;
-}
-
-.u-section-4 .u-icon-9 {
-  margin-left: 0;
-  margin-right: 0;
 }
 
 .u-section-4 .u-text-17 {
@@ -1288,7 +1284,7 @@
   }
 
   .u-section-4 .u-repeater-1 {
-    min-height: 892px;
+    min-height: 1068px;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1438,8 +1434,8 @@
   }
 
   .u-section-4 .u-repeater-1 {
-    min-height: 1031px;
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 1857px;
   }
 
   .u-section-4 .u-container-layout-1 {
