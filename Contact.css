@@ -190,7 +190,7 @@
 }
 
 .u-section-4 .u-gallery-1 {
-  height: 856px;
+  height: 1144px;
   grid-gap: 17px;
   margin: 2px 0 16px;
 }
@@ -281,10 +281,6 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-back-slide-6 {
-  background-image: none;
-}
-
 .u-section-4 .u-back-image-6 {
   object-position: 50% 0%;
 }
@@ -300,7 +296,7 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-back-image-9 {
+.u-section-4 .u-back-image-7 {
   object-position: 50% 0%;
 }
 
@@ -315,7 +311,7 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-back-image-10 {
+.u-section-4 .u-back-image-8 {
   object-position: 50% 0%;
 }
 
@@ -330,11 +326,60 @@
   margin-bottom: 0;
 }
 
-.u-section-4 .u-back-image-11 {
+.u-section-4 .u-back-slide-9 {
+  background-image: none;
+}
+
+.u-section-4 .u-back-image-9 {
   object-position: 50% 0%;
 }
 
 .u-section-4 .u-over-slide-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-4 .u-gallery-item-10 {
+  --effect-scale: 2.75;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-back-image-12 {
+  object-position: 50% 0%;
+}
+
+.u-section-4 .u-over-slide-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-4 .u-gallery-item-11 {
+  --effect-scale: 2.75;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-back-image-13 {
+  object-position: 50% 0%;
+}
+
+.u-section-4 .u-over-slide-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-4 .u-gallery-item-12 {
+  --effect-scale: 2.75;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-back-image-14 {
+  object-position: 50% 0%;
+}
+
+.u-section-4 .u-over-slide-12 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
@@ -346,7 +391,7 @@
 
   .u-section-4 .u-gallery-1 {
     margin-top: 29px;
-    height: 707px;
+    height: 946px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -380,15 +425,27 @@
     object-position: 86.59% 0%;
   }
 
+  .u-section-4 .u-back-image-7 {
+    object-position: 86.59% 0%;
+  }
+
+  .u-section-4 .u-back-image-8 {
+    object-position: 86.59% 0%;
+  }
+
   .u-section-4 .u-back-image-9 {
     object-position: 86.59% 0%;
   }
 
-  .u-section-4 .u-back-image-10 {
+  .u-section-4 .u-back-image-12 {
     object-position: 86.59% 0%;
   }
 
-  .u-section-4 .u-back-image-11 {
+  .u-section-4 .u-back-image-13 {
+    object-position: 86.59% 0%;
+  }
+
+  .u-section-4 .u-back-image-14 {
     object-position: 86.59% 0%;
   }
 }
@@ -399,7 +456,7 @@
   }
 
   .u-section-4 .u-gallery-1 {
-    height: 1374px;
+    height: 1648px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -417,7 +474,7 @@
   .u-section-4 .u-gallery-1 {
     margin-top: 1834px;
     margin-bottom: -2537px;
-    height: 3747px;
+    height: 4989px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -450,15 +507,27 @@
     object-position: 50% 35.05%;
   }
 
+  .u-section-4 .u-back-image-7 {
+    object-position: 50% 35.05%;
+  }
+
+  .u-section-4 .u-back-image-8 {
+    object-position: 50% 35.05%;
+  }
+
   .u-section-4 .u-back-image-9 {
     object-position: 50% 35.05%;
   }
 
-  .u-section-4 .u-back-image-10 {
+  .u-section-4 .u-back-image-12 {
     object-position: 50% 35.05%;
   }
 
-  .u-section-4 .u-back-image-11 {
+  .u-section-4 .u-back-image-13 {
+    object-position: 50% 35.05%;
+  }
+
+  .u-section-4 .u-back-image-14 {
     object-position: 50% 35.05%;
   }
 }
@@ -471,14 +540,13 @@
   .u-section-4 .u-gallery-1 {
     margin-top: 29px;
     margin-bottom: 16px;
-    height: 2410px;
+    height: 3210px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-4 .u-gallery-inner-1 {
-    grid-template-columns: auto;
-    grid-gap: 4px 4px;
+    grid-gap: 4px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 93px;
@@ -948,11 +1016,10 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 1438px;
+    min-height: 5618px;
   }
 
   .u-section-6 .u-gallery-1 {
-    margin-bottom: 0;
     height: 5561px;
   }
 
