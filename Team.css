@@ -1735,7 +1735,7 @@
   height: 202px;
   background-image: url("images/AF.jpg");
   background-position: 15.89% 10.56%;
-  background-size: 251%;
+  background-size: cover;
   margin: 0 auto;
 }
 
