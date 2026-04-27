@@ -1856,18 +1856,15 @@
 .u-section-4 .u-image-13 {
   width: 202px;
   height: 202px;
-  background-image: url("images/YA.png");
-  background-position: 50% 15.43%;
+  background-image: url("images/MN.png");
+  background-position: 50% 10.22%;
+  background-size: cover;
   margin: 0 auto;
 }
 
 .u-section-4 .u-text-37 {
   font-size: 1.5rem;
   margin: 16px 0 0;
-}
-
-.u-section-4 .u-icon-23 {
-  margin-top: 2px;
 }
 
 .u-section-4 .u-text-38 {
@@ -1907,7 +1904,7 @@
   margin: 16px 0 0;
 }
 
-.u-section-4 .u-icon-25 {
+.u-section-4 .u-icon-24 {
   margin-top: 2px;
 }
 
@@ -2215,7 +2212,6 @@
 
   .u-section-4 .u-image-13 {
     background-position: 50% 18.87%;
-    background-size: cover;
   }
 
   .u-section-4 .u-text-37 {
